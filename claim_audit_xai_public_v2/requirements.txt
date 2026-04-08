@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pdfplumber
+faiss-cpu
+openai
+playwright
+llama-cloud-services
