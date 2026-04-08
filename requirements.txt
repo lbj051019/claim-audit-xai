@@ -1,9 +1,0 @@
-numpy
-pandas
-scikit-learn
-shap
-requests
-beautifulsoup4
-pdfminer.six
-openai
-llama_cloud_services
